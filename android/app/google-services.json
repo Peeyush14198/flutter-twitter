@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "270255946845",
+    "firebase_url": "https://tweetx-481df.firebaseio.com",
+    "project_id": "tweetx-481df",
+    "storage_bucket": "tweetx-481df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270255946845:android:72c713e75ddeb51b7321b4",
+        "android_client_info": {
+          "package_name": "com.example.tweetx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270255946845-ggk4s257e4a0tufj5a2st2qkbl0ubv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcYSU8YyspuoaeKNK5juA0vz8tn7MV2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270255946845-ggk4s257e4a0tufj5a2st2qkbl0ubv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270255946845:android:7cebec0f5fcd90c97321b4",
+        "android_client_info": {
+          "package_name": "com.farazamiruddin.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270255946845-ggk4s257e4a0tufj5a2st2qkbl0ubv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcYSU8YyspuoaeKNK5juA0vz8tn7MV2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270255946845-ggk4s257e4a0tufj5a2st2qkbl0ubv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270255946845:android:05e4374d735391197321b4",
+        "android_client_info": {
+          "package_name": "com.therapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270255946845-ggk4s257e4a0tufj5a2st2qkbl0ubv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcYSU8YyspuoaeKNK5juA0vz8tn7MV2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270255946845-ggk4s257e4a0tufj5a2st2qkbl0ubv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
